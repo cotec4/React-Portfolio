@@ -45,8 +45,9 @@ class Intro extends React.Component {
                 <span>
                   <a
                     className="btn btn-primary btn js-scroll px-4"
-                    href="../Assets/Connor R. Cote Resume.pdf"
+                    href="../Assets/Resume.pdf"
                     role="button"
+                    download
                   >
                     Download Resume
                     </a>
