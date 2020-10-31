@@ -23,9 +23,10 @@ import * as serviceWorker from './serviceWorker';
 import Navbar from './components/navbar.jsx';
 import Intro from './components/intro.jsx';
 import About from './components/about.jsx';
-import Education from "./components/education.jsx";
+import Education from './components/education.jsx';
 import Experience from './components/experience';
 import Projects from './components/projects.jsx';
+import Homework from './components/homework.jsx'
 import Contact from './components/contact.jsx';
 import BackToTop from './components/back-top.jsx';
 import Preloader from './components/preloader';
@@ -40,6 +41,7 @@ ReactDOM.render(
         <Education />
         <Experience />
         <Projects />
+        <Homework />
         <Contact />
         <BackToTop />
         <Preloader />
