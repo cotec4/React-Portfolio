@@ -9,14 +9,14 @@ function LeadContent() {
             <div id="lead-content">
                 <h1>Connor R. Cote</h1>
                 <h2>Operating Associate</h2>
-                <a href="./Assets/Connor R. Cote Resume.pdf" class="btn-rounded-white" download>Download Resume</a>
+                <a href="./Assets/Connor R. Cote Resume.pdf" className="btn-rounded-white" download>Download Resume</a>
             </div>
 
             <div id="lead-overlay"></div>
 
             <div id="lead-down">
                 <span>
-                    <i class="fa fa-chevron-down" aria-hidden="true"></i>
+                    <i className="fa fa-chevron-down" aria-hidden="true"></i>
                 </span>
             </div>
         </div>

@@ -6,11 +6,11 @@ import "../styles.scss";
 function Education() {
     return (
         <div id="education">
-            <h2 class="heading">Education</h2>
-            <div class="education-block">
+            <h2 className="heading">Education</h2>
+            <div className="education-block">
                 <h3>Boston College</h3>
-                <span class="education-date">Sept 2013 - May 2017</span>
-                <h4>Bachelor of Science in Management Concentrating in Finance & Accounting with a French Language Minor
+                <span className="education-date">Sept 2013 - May 2017</span>
+                <h4>Bachelor of Science in Management Concentrating in Finance and Accounting with a French Language Minor
             </h4>
                 <p>
                     I attended Boston College from fall semester in 2013 to my graduation in spring 2017. During my time at
@@ -23,9 +23,9 @@ function Education() {
             </p>
             </div>
 
-            <div class="education-block">
+            <div className="education-block">
                 <h3>Boston College</h3>
-                <span class="education-date">Sept 2013 - May 2017</span>
+                <span className="education-date">Sept 2013 - May 2017</span>
                 <h4>Student Athlete / World Traveler</h4>
                 <ul>
                     <li>
