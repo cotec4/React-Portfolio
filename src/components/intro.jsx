@@ -5,7 +5,6 @@ import Typed from "react-typed";
 class Intro extends React.Component {
   render() {
     return (
-      // <div id="home" className="intro route bg-image " style={{backgroundImage: "url("+bigImage+")"}}>
       <div id="home" className="intro route bg-image background">
         <div id="stars" />
         <div id="stars2" />
@@ -43,13 +42,13 @@ class Intro extends React.Component {
                 </a>
                 </span>
                 <span>
-                  <a
-                    className="btn btn-primary btn js-scroll px-4"
-                    href="../Assets/Resume.pdf"
-                    role="button"
-                    download
-                  >
-                    Download Resume
+                    <a
+                      onClick={() => window.open(require("../Assets/Resume.pdf"), "_none")}
+                      className="btn btn-primary btn js-scroll px-4"
+                      href="../Assets/Resume.pdf"
+                      role="button"
+                    >
+                      Download Resume
                     </a>
                 </span>
               </p>

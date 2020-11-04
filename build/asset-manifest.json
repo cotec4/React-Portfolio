@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.01fbe530.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.f1ba7d7e.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.f1ba7d7e.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.fbcb4e55.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.fbcb4e55.js.map",
+    "static/css/2.242f24fe.chunk.css": "/React-Portfolio/static/css/2.242f24fe.chunk.css",
+    "static/js/2.058847b4.chunk.js": "/React-Portfolio/static/js/2.058847b4.chunk.js",
+    "static/js/2.058847b4.chunk.js.map": "/React-Portfolio/static/js/2.058847b4.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "precache-manifest.f8b1ac1b1974d8376d67f387370bead2.js": "/React-Portfolio/precache-manifest.f8b1ac1b1974d8376d67f387370bead2.js",
+    "service-worker.js": "/React-Portfolio/service-worker.js",
+    "static/css/2.242f24fe.chunk.css.map": "/React-Portfolio/static/css/2.242f24fe.chunk.css.map",
+    "static/css/main.01fbe530.chunk.css.map": "/React-Portfolio/static/css/main.01fbe530.chunk.css.map",
+    "static/js/2.058847b4.chunk.js.LICENSE": "/React-Portfolio/static/js/2.058847b4.chunk.js.LICENSE",
+    "static/media/Francisco_Partners1.png": "/React-Portfolio/static/media/Francisco_Partners1.9c6f82d0.png",
+    "static/media/baml.jpg": "/React-Portfolio/static/media/baml.a8c8b196.jpg",
+    "static/media/beers.jpg": "/React-Portfolio/static/media/beers.f126b772.jpg",
+    "static/media/boston-college.png": "/React-Portfolio/static/media/boston-college.c502d605.png",
+    "static/media/covidImpact.jpg": "/React-Portfolio/static/media/covidImpact.89a523f7.jpg",
+    "static/media/earth.jpg": "/React-Portfolio/static/media/earth.67af05e1.jpg",
+    "static/media/font-awesome.css": "/React-Portfolio/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/homework.jpg": "/React-Portfolio/static/media/homework.6c415bdf.jpg",
+    "static/media/ionicons.css": "/React-Portfolio/static/media/ionicons.621bd386.svg",
+    "static/media/male.png": "/React-Portfolio/static/media/male.a82ab1cd.png",
+    "static/media/male1.png": "/React-Portfolio/static/media/male1.3ec3891b.png",
+    "static/media/marist.png": "/React-Portfolio/static/media/marist.8e660856.png",
+    "static/media/myImage.png": "/React-Portfolio/static/media/myImage.bd80794f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fbcb4e55.js",
+    "static/css/2.242f24fe.chunk.css",
+    "static/js/2.058847b4.chunk.js",
+    "static/css/main.01fbe530.chunk.css",
+    "static/js/main.f1ba7d7e.chunk.js"
+  ]
+}
